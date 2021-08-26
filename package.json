@@ -1,0 +1,23 @@
+{
+  "name": "skola24ical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "run": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucke0051/skola24ical.git"
+  },
+  "author": "Lukas Pallhed",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Lucke0051/skola24ical/issues"
+  },
+  "homepage": "https://github.com/Lucke0051/skola24ical#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
