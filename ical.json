@@ -1,0 +1,509 @@
+[
+	{
+		"date": "30/8",
+		"events": [
+			{
+				"text": [
+					"Svenska 1 SVE",
+					"/LESNY22",
+					"/G 1016 (Saunan) SVESVE01-TEC21"
+				],
+				"longName": "Svenska",
+				"shortName": "SVE",
+				"start": "12:50:00",
+				"end": "14:10:00",
+				"color": "#00FF40",
+				"bounds": {
+					"top": 0.5366795366795367,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Teknik 1 TEK",
+					"/ELLIN24",
+					"/G 1077 (Tekniklabbet),G 1058 TEKTEK01-TEC21"
+				],
+				"longName": "Teknik 1 TEK",
+				"shortName": "Teknik 1 TEK",
+				"start": "09:20:00",
+				"end": "10:40:00",
+				"color": "#5151FF",
+				"bounds": {
+					"top": 0.148005148005148,
+					"left": 0.5028248587570622,
+					"width": 0.4971751412429379,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Fysik 1 FYS",
+					"/EVOST24",
+					"/G 1075 (Fysiksalen) FYSFYS01a-TEC21"
+				],
+				"longName": "Fys­ik",
+				"shortName": "FYS",
+				"start": "14:30:00",
+				"end": "16:00:00",
+				"color": "#0080C0",
+				"bounds": {
+					"top": 0.722007722007722,
+					"left": 0,
+					"width": 1,
+					"height": 0.16731016731016732
+				}
+			},
+			{
+				"text": [
+					"Lunch",
+					"/",
+					"/ TEC21"
+				],
+				"longName": "Lunch",
+				"shortName": "Lunch",
+				"start": "12:10:00",
+				"end": "12:50:00",
+				"color": "#C0C0C0",
+				"bounds": {
+					"top": 0.46332046332046334,
+					"left": 0,
+					"width": 1,
+					"height": 0.07335907335907337
+				}
+			},
+			{
+				"text": [
+					"Teknik 1 TEK",
+					"/ELLIN24",
+					"/G 1077 (Tekniklabbet),G 1058 TEKTEK01-TEC21"
+				],
+				"longName": "Teknik 1 TEK",
+				"shortName": "Teknik 1 TEK",
+				"start": "10:50:00",
+				"end": "12:10:00",
+				"color": "#5151FF",
+				"bounds": {
+					"top": 0.3153153153153153,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Svenska som andraspråk 1 SVA",
+					"/SOJOS22",
+					"/L 105 (LS2) SVASVA01-TU21"
+				],
+				"longName": "Svenska som andraspråk 1 SVA",
+				"shortName": "Svenska som andraspråk 1 SVA",
+				"start": "08:00:00",
+				"end": "09:30:00",
+				"color": "#00FF00",
+				"bounds": {
+					"top": 0,
+					"left": 0,
+					"width": 0.5028248587570622,
+					"height": 0.16731016731016732
+				}
+			}
+		]
+	},
+	{
+		"date": "31/8",
+		"events": [
+			{
+				"text": [
+					"Matematik 1c MAT",
+					"/EVOST24",
+					"/G 1017 MATMAT01c-TEC21"
+				],
+				"longName": "Matem­at­ik",
+				"shortName": "MAT",
+				"start": "10:30:00",
+				"end": "11:50:00",
+				"color": "#9F0050",
+				"bounds": {
+					"top": 0.277992277992278,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Kemi 1 KEM SoS 6h",
+					"/ASBEN22",
+					"/G 1076 (Kemisalen) KEMKEM01-TEC21"
+				],
+				"longName": "Kemi",
+				"shortName": "KEM",
+				"start": "12:35:00",
+				"end": "13:55:00",
+				"color": "#00FFFF",
+				"bounds": {
+					"top": 0.5096525096525096,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Engelska 5 ENG",
+					"/LESNY22",
+					"/G 1016 (Saunan) ENGENG05-TEC21"
+				],
+				"longName": "Engelska",
+				"shortName": "ENG",
+				"start": "14:10:00",
+				"end": "15:30:00",
+				"color": "#FF8080",
+				"bounds": {
+					"top": 0.6846846846846847,
+					"left": 0,
+					"width": 1,
+					"height": 0.1492921492921493
+				}
+			},
+			{
+				"text": [
+					"Teknik 1 TEK",
+					"/ELLIN24",
+					"/G 1077 (Tekniklabbet),G 1058 TEKTEK01-TEC21"
+				],
+				"longName": "Teknik 1 TEK",
+				"shortName": "Teknik 1 TEK",
+				"start": "08:30:00",
+				"end": "09:50:00",
+				"color": "#5151FF",
+				"bounds": {
+					"top": 0.055341055341055344,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Lunch",
+					"/",
+					"/ TEC21"
+				],
+				"longName": "Lunch",
+				"shortName": "Lunch",
+				"start": "11:50:00",
+				"end": "12:30:00",
+				"color": "#C0C0C0",
+				"bounds": {
+					"top": 0.425997425997426,
+					"left": 0,
+					"width": 1,
+					"height": 0.07464607464607464
+				}
+			}
+		]
+	},
+	{
+		"date": "1/9",
+		"events": [
+			{
+				"text": [
+					"Lunch",
+					"/",
+					"/ TEC21"
+				],
+				"longName": "Lunch",
+				"shortName": "Lunch",
+				"start": "11:25:00",
+				"end": "12:05:00",
+				"color": "#C0C0C0",
+				"bounds": {
+					"top": 0.37966537966537967,
+					"left": 0,
+					"width": 1,
+					"height": 0.07464607464607464
+				}
+			},
+			{
+				"text": [
+					"Supporten TE"
+				],
+				"longName": "Sup­porten",
+				"shortName": "Sup­porten",
+				"start": "14:20:00",
+				"end": "15:20:00",
+				"color": "#FFFFFF",
+				"bounds": {
+					"top": 0.703989703989704,
+					"left": 0,
+					"width": 1,
+					"height": 0.11068211068211069
+				}
+			},
+			{
+				"text": [
+					"Historia 1a1 HIS",
+					"/JOCAR30",
+					"/G 1115 HISHIS01a1-TEC21"
+				],
+				"longName": "Hist­oria",
+				"shortName": "HIS",
+				"start": "08:20:00",
+				"end": "09:40:00",
+				"color": "#8080C0",
+				"bounds": {
+					"top": 0.03732303732303732,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Klasstid"
+				],
+				"longName": "Klass­tid",
+				"shortName": "Klass­tid",
+				"start": "14:00:00",
+				"end": "14:20:00",
+				"color": "#4E9A9A",
+				"bounds": {
+					"top": 0.6666666666666666,
+					"left": 0,
+					"width": 1,
+					"height": 0.03732303732303732
+				}
+			},
+			{
+				"text": [
+					"Idrott och hälsa 1 IDR",
+					"/ANORE22",
+					"/Idrottshallen IDRIDR01-TEC21"
+				],
+				"longName": "Idrott och hälsa",
+				"shortName": "IDR",
+				"start": "09:50:00",
+				"end": "10:50:00",
+				"color": "#0080FF",
+				"bounds": {
+					"top": 0.20334620334620335,
+					"left": 0,
+					"width": 1,
+					"height": 0.11196911196911197
+				}
+			},
+			{
+				"text": [
+					"Matematik 1c MAT",
+					"/EVOST24",
+					"/G 1016 (Saunan) MATMAT01c-TEC21"
+				],
+				"longName": "Matem­at­ik",
+				"shortName": "MAT",
+				"start": "12:15:00",
+				"end": "13:35:00",
+				"color": "#9F0050",
+				"bounds": {
+					"top": 0.4723294723294723,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			}
+		]
+	},
+	{
+		"date": "2/9",
+		"events": [
+			{
+				"text": [
+					"Kemi 1 KEM SoS 6h",
+					"/ASBEN22",
+					"/G 1076 (Kemisalen) KEMKEM01-TEC21"
+				],
+				"longName": "Kemi",
+				"shortName": "KEM",
+				"start": "10:30:00",
+				"end": "11:50:00",
+				"color": "#00FFFF",
+				"bounds": {
+					"top": 0.277992277992278,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Lunch",
+					"/",
+					"/ TEC21"
+				],
+				"longName": "Lunch",
+				"shortName": "Lunch",
+				"start": "11:50:00",
+				"end": "12:30:00",
+				"color": "#C0C0C0",
+				"bounds": {
+					"top": 0.425997425997426,
+					"left": 0,
+					"width": 1,
+					"height": 0.07464607464607464
+				}
+			},
+			{
+				"text": [
+					"Matematik 1c MAT",
+					"/EVOST24",
+					"/G 1016 (Saunan) MATMAT01c-TEC21"
+				],
+				"longName": "Matem­at­ik",
+				"shortName": "MAT",
+				"start": "12:30:00",
+				"end": "13:50:00",
+				"color": "#9F0050",
+				"bounds": {
+					"top": 0.5006435006435006,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Kemi 1 KEM SoS 6h",
+					"/ASBEN22",
+					"/G 1076 (Kemisalen) KEMKEM01-TEC21"
+				],
+				"longName": "Kemi",
+				"shortName": "KEM",
+				"start": "14:00:00",
+				"end": "15:20:00",
+				"color": "#00FFFF",
+				"bounds": {
+					"top": 0.6666666666666666,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			}
+		]
+	},
+	{
+		"date": "3/9",
+		"events": [
+			{
+				"text": [
+					"Svenska som andraspråk 1 SVA",
+					"/SOJOS22",
+					"/L 105 (LS2) SVASVA01-TU21"
+				],
+				"longName": "Svenska som andraspråk 1 SVA",
+				"shortName": "Svenska som andraspråk 1 SVA",
+				"start": "08:00:00",
+				"end": "09:30:00",
+				"color": "#00FF00",
+				"bounds": {
+					"top": 0,
+					"left": 0,
+					"width": 0.4971751412429379,
+					"height": 0.16731016731016732
+				}
+			},
+			{
+				"text": [
+					"Lunch",
+					"/",
+					"/ TEC21"
+				],
+				"longName": "Lunch",
+				"shortName": "Lunch",
+				"start": "11:15:00",
+				"end": "11:55:00",
+				"color": "#C0C0C0",
+				"bounds": {
+					"top": 0.36164736164736166,
+					"left": 0,
+					"width": 1,
+					"height": 0.07335907335907337
+				}
+			},
+			{
+				"text": [
+					"Teknik 1 TEK",
+					"/ELLIN24",
+					"/G 1077 (Tekniklabbet),G 1058 TEKTEK01-TEC21"
+				],
+				"longName": "Teknik 1 TEK",
+				"shortName": "Teknik 1 TEK",
+				"start": "09:55:00",
+				"end": "11:15:00",
+				"color": "#5151FF",
+				"bounds": {
+					"top": 0.21235521235521235,
+					"left": 0,
+					"width": 1,
+					"height": 0.1492921492921493
+				}
+			},
+			{
+				"text": [
+					"Svenska 1 SVE",
+					"/LESNY22",
+					"/G 1016 (Saunan) SVESVE01-TEC21"
+				],
+				"longName": "Svenska",
+				"shortName": "SVE",
+				"start": "08:20:00",
+				"end": "09:40:00",
+				"color": "#00FF40",
+				"bounds": {
+					"top": 0.03732303732303732,
+					"left": 0.4971751412429379,
+					"width": 0.5028248587570622,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Matematik 1c MAT",
+					"/EVOST24",
+					"/G 1048 (Polhemsalen) MATMAT01c-TEC21"
+				],
+				"longName": "Matem­at­ik",
+				"shortName": "MAT",
+				"start": "13:40:00",
+				"end": "15:00:00",
+				"color": "#9F0050",
+				"bounds": {
+					"top": 0.6293436293436293,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			},
+			{
+				"text": [
+					"Engelska 5 ENG",
+					"/LESNY22",
+					"/G 1046 ENGENG05-TEC21"
+				],
+				"longName": "Engelska",
+				"shortName": "ENG",
+				"start": "12:05:00",
+				"end": "13:25:00",
+				"color": "#FF8080",
+				"bounds": {
+					"top": 0.4543114543114543,
+					"left": 0,
+					"width": 1,
+					"height": 0.148005148005148
+				}
+			}
+		]
+	}
+]

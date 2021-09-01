@@ -1,9 +1,0 @@
-GET /.well-known/openid-configuration HTTP/1.1
-Host: login01.skola24.se
-Accept: */*
-Origin: ionic://localhost
-User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-Accept-Language: sv-SE,sv;q=0.9
-Accept-Encoding: gzip, deflate
-Connection: close
-
