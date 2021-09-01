@@ -1,5 +1,5 @@
 const express = require("express");
-//const crypto = require("crypto");
+const crypto = require("crypto");
 const ical2json = require("ical2json");
 const https = require("https");
 const { response } = require("express");
@@ -37,12 +37,16 @@ function jsonDayToJsonIcalEvent(data, nowDate) {
 				"DTSTART": eventStart,
 				"DTEND": eventEnd,
 				"DTSTAMP": stamp.substring(0, stamp.length - 4),
-				//"UID": crypto.randomBytes(28).toString("hex"),
+				"UID": crypto.randomBytes(28).toString("hex"),
 				"CREATED": nowDate.toISOString(),
 				"SUMMARY": jsonEvent["text"][0],
-				"DESCRIPTION": jsonEvent["text"][1],
-				"LOCATION": jsonEvent["text"][2],
 			};
+			if (jsonEvent["text"][1]) {
+				event["DESCRIPTION"] = jsonEvent["text"][1];
+			}
+			if (jsonEvent["text"][2]) {
+				event["LOCATION"] = jsonEvent["text"][2];
+			}
 			events.push(event);
 		}
 		return events;
