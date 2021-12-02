@@ -38,7 +38,7 @@ function jsonDayToJsonIcalEvent(data, nowDate) {
 				"DTEND": eventEnd,
 				"DTSTAMP": stamp.substring(0, stamp.length - 4),
 				"UID": crypto.randomBytes(28).toString("hex"),
-				"CREATED": nowDate.toISOString(),
+				//"CREATED": nowDate.toISOString(),
 				"SUMMARY": jsonEvent["text"][0],
 			};
 			if (jsonEvent["text"][1]) {
