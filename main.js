@@ -4,7 +4,7 @@ const ical2json = require("ical2json");
 const https = require("https");
 const { response } = require("express");
 const app = express();
-const port = 869;
+const port = 8869;
 
 function getWeekNumber(d) {
 	d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
